@@ -3,5 +3,6 @@
 - Bangun pagi
   - Jam 06:00 WIB
 - Mandi
+  - Jam 10:00 WIB
 - Makan
 - Tidur
